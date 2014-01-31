@@ -15,5 +15,8 @@ League codes
 
 ---
 
-[twitter](http://twitter.com/kigened).<br/>
-[github] (http://github/leaguefls).
+[twitter](http://twitter.com/kigened)
+
+---
+
+Juicy open-source goodness [github] (http://github.com/leaguefls).
