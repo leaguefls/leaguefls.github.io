@@ -7,6 +7,23 @@
     <atom:link href="http://leaguefls.github.io./feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Gameweek 23 - Movement</title>
+        <description>&lt;p&gt;It&amp;rsquo;s probably fitting that  I should post a blog based on a transfer story on deadline day.&lt;/p&gt;
+
+&lt;p&gt;Weeks on after the idea was originally mooted, LoF has finally moved from WordPress to the balsa wood halls of GitHub Pages. Why? You might quip. Well it&amp;rsquo;s important to note that it&amp;rsquo;s not because of any failings on WordPress&amp;rsquo;s part. Quite the opposite, WordPress has been an excellent servant for the blog (which turns a year old next week). At the time, it represented my first dabble at blogging and as such I greatly appreciated the (now seemingly) overt obfuscation of the inner workings behind the nice admin interface. Brilliant when all you want to do is post articles at a canter. But what happens then when the databases, comment moderation, bloat and overall lack of control over your content begins to feel exacting and a &lt;em&gt;bit&lt;/em&gt; disingenuous?&lt;/p&gt;
+
+&lt;p&gt;Enter &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;. Jekyll is a simple blog-aware static site generator. It allows you to create content in markdown and manage everything with git. Even cooler is that you can deploy your static files to a special Github Pages repo and within minutes have your site hosted up for (absolutely) free. No ads, no PHP, no databases, no hosting fees and most importantly, it&amp;rsquo;s &lt;em&gt;uber-cool&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;So yeah, I&amp;rsquo;m pretty chuffed I finally made the move. And in truth, that&amp;rsquo;s all that really matters. &lt;/p&gt;
+
+&lt;p&gt;Back to the football tomorrow.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 31 Jan 2014 23:47:09 +0000</pubDate>
+        <link>http://leaguefls.github.io./2014/01/31/gameweek-23-movement/</link>
+        <guid isPermaLink="true">http://leaguefls.github.io./2014/01/31/gameweek-23-movement/</guid>
+      </item>
+    
+      <item>
         <title>Gameweek 22 - And Then There Were…Erm, 26.</title>
         <description>&lt;p&gt;It had seemed for an eternity that if I was ever going to free myself from the asphyxiating shackles of writer’s block, the motivation would have had to be a pretty darn good one. And so it has been. I’m not one to give in to sentiment but it does bring a whiff of quiet pride to see the LoF managerial numbers on the up again. Three recent additions means that the LoF now boasts a whopping 26 gaffers. About those - it’s not just a case of your average run-of-the-mill manager, quite the opposite. Vamperoh, Timgooner and Edmanager all represent significantly good additions to the overall competitiveness of the league.&lt;/p&gt;
 
@@ -196,34 +213,6 @@ The Fantasy Football Scout &lt;a href=&quot;http://www.fantasyfootballscout.co.u
         <pubDate>Fri, 27 Sep 2013 11:50:34 +0000</pubDate>
         <link>http://leaguefls.github.io./2013/09/27/gameweek-6-jangling-nerves/</link>
         <guid isPermaLink="true">http://leaguefls.github.io./2013/09/27/gameweek-6-jangling-nerves/</guid>
-      </item>
-    
-      <item>
-        <title>Gameweek 5 - Schrödinger's Cat</title>
-        <description>&lt;p&gt;Evening folks,&lt;/p&gt;
-
-&lt;p&gt;The events of the gameweek gone by linger freshly in the memory as managers try to collate and make sense of the attendant babble. The League of Failures picture is sufficiently muddied, with tables turned over their heads, sporadic success stories and an ever-growing underbelly of angst. &lt;/p&gt;
-
-&lt;p&gt;MOVEMENT&lt;/p&gt;
-
-&lt;p&gt;Douglas Odipo dug up a barnstorming 82 points to propel him straight up to 3rd place on the log. Onesmus and Reuben meanwhile did enough to maintain parity in the top two slots. Mystagogue and Bazinga FC saw drops in positions as did Benson Musa, who fell the most down into the 8th. Subsequently, Fabian&amp;rsquo;s aptly named Die Mannschaft quietly stole into 5th with a 62 point haul. Close on his heels was Alex Baraka who moved to 6th. Cindy Atieno drew 57 points to move on up to 9th. Further afield, Sheila Minayo saw a further drop into the mire, managing only a meagre 22 point return. Robert Okello&amp;rsquo;s schocker trundled on, this time his 28 point return consigning him to 18th. &lt;/p&gt;
-
-&lt;p&gt;A few musings&amp;hellip; &lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Early shockers showing no signs of abating&lt;/strong&gt;
-Just when we thought no one could best Andrew Orina&amp;rsquo;s total mare of season, Robert Okello has gone one better, registering a most spectacular implosion in the last few weeks. Comfortably amidst the top 3 only 3 weeks ago, his ailing side now lies 18th. This is following an inexplicable 44 point hit over the weekend after making 12 transfers and &amp;lsquo;forgetting&amp;rsquo; to employ his wildcard. Tough times. Elsewhere, Andrew Orina&amp;rsquo;s 43 point haul, while decent enough to see him maintain his position, will be scant consolation for the seasoned campaigner. Following his spectular exploits last season, many had mooted him to be there and thereabout this campaign. And with good reason. His domineering managerial savvy had seen him lead the last campaign from start to finish. Having been expected to replicate the same, Orina has struggled woefully. Rooted to the wrong half of the table, he has had to contend with being overtaken by the likes of Joel Drake and Dennis Kigen despite both having played a gameweek fewer. Drastic times indeed.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bensoo&lt;/strong&gt; &lt;strong&gt;treads slippery slope&lt;/strong&gt;
-A permanent fixture at the top from the start of the season, Ben&amp;rsquo;s most recent effort saw him muster a meagre 28 point haul. While not so poor a return given what others around him managed, the result was poor enough to see him resigned to 8th place. No stranger to cutting off the nose to spite the face, Ben&amp;rsquo;s recent travails have been the epitome of knee-jerk. Despite deciding early doors to eschew including van Persie in his side, a tasty fixture against Crystal Palace saw Ben fall over himself to shuffle his team in order to get the mercurial Dutchman. A decision which ultimately proved far from handsome as not so soon after he had had to employ his wildcard to reorganise his side once more following the botched RvP transfer. Now sporting an entirely new side as well as an unconventional 5-2-3 formation, it remains to be seen whether Ben will be able to turn things round and get back to winning fettle.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Reuben a model of consistency&lt;/strong&gt;
-Perhaps wrongly tipped to struggle at the start of the term (on account of his relative lack of experience), Reuben&amp;rsquo;s early form has gone a lot farther than silencing the doubters. With a scorecard reading 70, 54, 66, 65 and more recently, the LoF new boy is showing the sort of form many had thought to be the sole preserve of seasoned campaigners. Firmly settled at 2nd and with Onesmus well in his sights, it remains to be seen how he fares throughout the rest of the season.&lt;/p&gt;
-
-&lt;p&gt;That&amp;rsquo;s about the size of it then.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 24 Sep 2013 17:30:06 +0000</pubDate>
-        <link>http://leaguefls.github.io./2013/09/24/gameweek-5-schroedingers-cat-2/</link>
-        <guid isPermaLink="true">http://leaguefls.github.io./2013/09/24/gameweek-5-schroedingers-cat-2/</guid>
       </item>
     
   </channel>
