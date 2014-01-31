@@ -1,0 +1,23 @@
+title:            League of Failures
+description:      Cracking. Barnstorming. Brilliant.
+url:              http://leaguefls.github.io.
+signoff:          denniskig
+disqus_shortname: leagueflswordpresscom
+facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
+google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
+
+links:
+  - name:         BLOG
+    url:          /
+  - name:         ABOUT
+    url:          /about
+  - name:         ME
+    url:          http://kigened.github.io
+    external:     true
+
+pygments:         true
+permalink:        pretty
+markdown:         redcarpet
+redcarpet:
+  extensions:
+    - smart
