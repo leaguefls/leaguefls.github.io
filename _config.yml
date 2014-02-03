@@ -11,9 +11,6 @@ links:
     url:          /
   - name:         ABOUT
     url:          /about
-  - name:         ME
-    url:          http://kigened.github.io
-    external:     true
 
 pygments:         true
 permalink:        pretty
