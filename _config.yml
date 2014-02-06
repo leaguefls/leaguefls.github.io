@@ -13,7 +13,7 @@ links:
     url:          /about
 
 pygments:         true
-permalink:        prett
+permalink:        pretty
 markdown:         rdiscount
 rdiscount:
   extensions:	 [smart]
