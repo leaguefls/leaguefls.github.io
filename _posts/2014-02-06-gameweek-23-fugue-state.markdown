@@ -12,7 +12,7 @@ tags:
 ---
 
 
-Gameweek 23 passed on without any great kerfuffle for most. On a personal level, however, it might just have been the most significant gameweek thus far in my stuttering campaign. 
+Gameweek 23 passed on without much kerfuffle for most. On a personal level, however, it might just have been the most significant gameweek thus far in my stuttering campaign. 
 
 Hark back with me to Saturday afternoon as I nonchalantly went about my usual routine. The seminal facts were in my possession - I needed to effect two transfers prior to the deadline in order to eschew the risk of fielding only 9 fit men. The said transfers had already been planned well in advance in the days preceding the deadline. Daniel Sturridge would slot in for the hamstrung Sergio Aguero with Romelu Lukaku giving way to Jay Rodriguez. All that remained was the academic (or so it seemed) task of making the actual moves. 
 
