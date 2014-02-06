@@ -7,7 +7,7 @@ slug: gameweek-23-fugue-state
 title: Gameweek 23 - Fugue State
 disqus: y
 wordpress_id: 
-tags: FPL, fantasy premier league, gameweek 23, 
+tags: 
 - 
 ---
 
