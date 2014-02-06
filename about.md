@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![LoF banner] (/images/banner.png)
+![LoF banner](/images/banner.png)
 
 Fast paced, rampaging and forever imbued with an underbelly of angst, League of Failures is my mouthpiece to an increasingly desolate FPL heathen.
 
@@ -17,7 +17,7 @@ League codes:
 
 ---
 
-Follow the project on [GitHub] (http://github.com/leaguefls).
+Follow the project on [GitHub](http://github.com/leaguefls).
 
 ---
 
