@@ -20,6 +20,6 @@ Fast forward to two-thirty and the dawning of the grim realisation that by some 
 
 In my perceived [harmatia](http://en.m.wikipedia.org/wiki/Harmatia) I had somehow ended up conjuring a way of banishing my rapid descent down the ranks. What's the moral in all this, you might ask. Well, put simply, all of this signals a monumental u-turn in the way I've been playing the game. Enough of poring religiously over fixture lists and scheming transfers months in advance. Long forgotten are my days of trawling through the [hallowed halls](http://www.fantasyfootballscout.co.uk) late into the night soliciting crumbs of advice from equally troubled souls. Sod that. 
 
-This, ladies and gentlemen, is the advent of a new me. A[casual](http://www.fantasyfootballscout.co.uk/2013/11/22/the-weekend-team-news-107/?hc_page=6#hc_comment_6047391) new me.
+This, ladies and gentlemen, is the advent of a new me. A [casual](http://www.fantasyfootballscout.co.uk/2013/11/22/the-weekend-team-news-107/?hc_page=6#hc_comment_6047391) new me.
 
  
