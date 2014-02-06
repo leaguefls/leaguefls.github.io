@@ -3,11 +3,13 @@ layout: page
 title: About
 ---
 
-Fast paced, rampaging and slightly imbued with the ever-present underbelly of angst, League of Failures is my mouthpiece to an increasingly desolate FPL heathen.
+![LoF banner] (/images/banner.png)
+
+Fast paced, rampaging and forever imbued with an underbelly of angst, League of Failures is my mouthpiece to an increasingly desolate FPL heathen.
 
 ---
 
-League codes
+League codes:
 
 > LoF: 2460377-59061 
 >
@@ -15,8 +17,9 @@ League codes
 
 ---
 
-[twitter](http://twitter.com/kigened)
+Follow the project on [GitHub] (http://github.com/leaguefls).
 
 ---
 
-Juicy open-source goodness [github] (http://github.com/leaguefls).
+Follow me on [Twitter](http://twitter.com/kigened). And [here](http://kigened.github.io).
+
