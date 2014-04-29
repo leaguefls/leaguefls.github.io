@@ -21,5 +21,5 @@ Follow the project on [GitHub](http://github.com/leaguefls).
 
 ---
 
-Follow me on [Twitter](http://twitter.com/kigened). And [Here](http://kigened.github.io).
+Follow me on [Twitter](http://twitter.com/denniskig). And [Here](http://denniskig.github.io).
 
